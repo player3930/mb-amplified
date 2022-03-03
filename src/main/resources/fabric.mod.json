@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "modern_beta",
+  "version": "2.8.3+1.16.5",
+
+  "name": "Modern Beta: Amplified for Fabric",
+  "description": "An edit of b3spectacled's Modern Beta",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.bespectacled.modernbeta.ModernBeta"
+    ],
+    "modmenu": [
+      "com.bespectacled.modernbeta.config.ModernBetaModMenu"
+    ]
+  },
+  "mixins": [
+    "modern_beta.mixins.json"
+  ],
+  
+  "accessWidener": "modern_beta.accesswidener",
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5",
+    "cloth-config2": "*"
+  },
+  
+  "conflicts": {
+    "hydrogen": "*"
+  },
+  
+  "breaks": {
+    "tic_tacs": "*"
+  }
+}

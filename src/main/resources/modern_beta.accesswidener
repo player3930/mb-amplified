@@ -1,0 +1,14 @@
+accessWidener v1 named
+
+extendable class net/minecraft/world/gen/chunk/NoiseChunkGenerator
+
+accessible field net/minecraft/world/gen/chunk/NoiseChunkGenerator seed J
+accessible field net/minecraft/world/gen/chunk/NoiseChunkGenerator settings Ljava/util/function/Supplier;
+accessible method net/minecraft/world/gen/chunk/NoiseChunkGenerator getNoiseWeight (III)D
+
+extendable class net/minecraft/world/gen/chunk/ChunkGenerator
+accessible field net/minecraft/world/gen/chunk/ChunkGenerator worldSeed J
+
+accessible method net/minecraft/world/gen/chunk/ChunkGeneratorSettings <init> (Lnet/minecraft/world/gen/chunk/StructuresConfig;Lnet/minecraft/world/gen/chunk/GenerationShapeConfig;Lnet/minecraft/block/BlockState;Lnet/minecraft/block/BlockState;IIIZ)V
+
+extendable method net/minecraft/client/world/GeneratorType <init> (Ljava/lang/String;)V

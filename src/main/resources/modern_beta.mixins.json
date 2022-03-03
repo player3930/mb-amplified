@@ -1,0 +1,28 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.bespectacled.modernbeta.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinMinecraftServer",
+    "MixinBiomeArray",
+    "MixinGeneratorOptions",
+    "MixinChunkGeneratorInvoker",
+    "MixinOceanMonumentFeature",
+    "MixinSpawnLocating",
+    "MixinSpringFeature"
+  ],
+  "client": [
+    "client.MixinClientWorld",
+    "client.MixinWorldRenderer",
+    "client.MixinBackgroundRenderer",
+    "client.MixinGeneratorTypeAccessor",
+    "client.MixinInGameHud",
+    "client.MixinMoreOptionsDialogInvoker",
+    "client.MixinSkyProperties",
+    "client.MixinDebugHud"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

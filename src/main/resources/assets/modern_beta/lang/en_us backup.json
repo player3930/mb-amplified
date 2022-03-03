@@ -1,0 +1,198 @@
+{
+    "generator.old": "Modern Beta",
+    
+    "createWorld.customize.unknown": "Unknown option!",
+    
+    "createWorld.customize.worldType": "World Type",
+    "createWorld.customize.worldType.beta": "Beta Amplified",
+    "createWorld.customize.worldType.skylands": "Skylands",
+    "createWorld.customize.worldType.alpha": "Alpha 1.1.2_01",
+    "createWorld.customize.worldType.indev": "Indev 20100223",
+    "createWorld.customize.worldType.infdev_611": "Infdev 20100611",
+    "createWorld.customize.worldType.infdev_420": "Infdev 20100420",
+    "createWorld.customize.worldType.infdev_415": "Infdev 20100415",
+    "createWorld.customize.worldType.infdev_227": "Infdev 20100227",
+    "createWorld.customize.worldType.beta_islands": "Beta Islands",
+    "createWorld.customize.worldType.pe": "Pocket Edition",
+    "createWorld.customize.worldType.classic_0_30": "Classic 0.30",
+    
+    "createWorld.customize.biomeType": "Biome Type",
+    "createWorld.customize.biomeType.beta": "Beta",
+    "createWorld.customize.biomeType.single": "Single",
+    "createWorld.customize.biomeType.vanilla": "Vanilla",
+    "createWorld.customize.biomeType.pe": "Pocket Edition",
+    "createWorld.customize.biomeType.biome": "Biome",
+    
+    "createWorld.customize.settings": "Settings",
+    
+    "createWorld.customize.worldType.title": "Modern Beta World Configuration",
+    "createWorld.customize.settings.title": "Modern Beta Settings Configuration",
+    
+    "createWorld.customize.biome.climateType.land": "Land Biomes",
+    "createWorld.customize.biome.climateType.ocean": "Ocean Biomes",
+    
+    "createWorld.customize.biome.generateOceans": "Assign Ocean Biomes",
+    "createWorld.customize.biome.generateOceans.tooltip": "Replace biomes in bodies of water with ocean biomes.",
+    
+    "createWorld.customize.hydrogenLoaded": "'Assign Ocean Biomes' option is disabled due to an incompatibility with Hydrogen.",
+    
+    "createWorld.customize.inf.generateOceans": "Assign Ocean Biomes",
+    "createWorld.customize.inf.generateOceanShrines": "Generate Ocean Shrines",
+    "createWorld.customize.inf.generateMonuments": "Generate Monuments",
+    "createWorld.customize.inf.sampleClimate": "Sample Climate",
+    
+    "createWorld.customize.infdev.generateInfdevPyramid": "Generate Infdev Brick Pyramid",
+    "createWorld.customize.infdev.generateInfdevWall": "Generate Infdev Obsidian Wall",
+    
+    "createWorld.customize.inf.generateOceans.tooltip": "Replace biomes in bodies of water with ocean biomes.",
+    "createWorld.customize.inf.sampleClimate.tooltip": "Sample biome climate for terrain generation.",
+    
+    "createWorld.customize.vanilla.vanillaBiomeSize": "Biome Size",
+    "createWorld.customize.vanilla.vanillaOceanBiomeSize": "Ocean Biome Size",
+    
+    "createWorld.customize.island.generateOuterIslands": "Generate Outer Islands",
+    "createWorld.customize.island.centerIslandRadius": "Center Island Radius",
+    "createWorld.customize.island.centerIslandFalloff": "Center Island Falloff",
+    "createWorld.customize.island.centerOceanRadius": "Center Ocean Radius",
+    "createWorld.customize.island.centerOceanLerpDistance": "Center Ocean Lerp Distance",
+    "createWorld.customize.island.outerIslandNoiseScale": "Island Noise Scale",
+    "createWorld.customize.island.outerIslandNoiseOffset": "Island Noise Offset",
+    
+    "createWorld.customize.island.centerIslandRadius.tooltip": "Radius of center island, in chunks.",
+    "createWorld.customize.island.centerIslandFalloff.tooltip": "Controls how quickly center island transitions into ocean past island radius. Higher values mean more abrupt transitions.",
+    "createWorld.customize.island.centerOceanRadius.tooltip": "Radius of ocean surrounding center island, in chunks.",
+    "createWorld.customize.island.centerOceanLerpDistance.tooltip": "Controls how quickly center ocean transitions into outer islands. Lower values mean more abrupt transitions.",
+    "createWorld.customize.island.outerIslandNoiseScale.tooltip": "Controls outer island and ocean size. Higher values mean larger islands and oceans.",
+    "createWorld.customize.island.outerIslandNoiseOffset.tooltip": "Controls the proportion of outer islands to ocean. Higher values mean larger islands.",
+    
+    "createWorld.customize.indev.levelType": "Level Type",
+    "createWorld.customize.indev.levelTheme": "Level Theme",
+    "createWorld.customize.indev.levelWidth": "Level Width",
+    "createWorld.customize.indev.levelLength": "Level Length",
+    "createWorld.customize.indev.levelHeight": "Level Height",
+    "createWorld.customize.indev.caveRadius": "Cave Radius",
+    
+    "createWorld.customize.indev.levelHeight.tooltip": "Sea level is half of level height.",
+    "createWorld.customize.indev.caveRadius.tooltip": "Multiplier for cave radius.",
+    
+    "createWorld.customize.indev.levelTheme.normal": "Normal",
+    "createWorld.customize.indev.levelTheme.hell": "Hell",
+    "createWorld.customize.indev.levelTheme.paradise": "Paradise",
+    "createWorld.customize.indev.levelTheme.woods": "Woods",
+    "createWorld.customize.indev.levelTheme.snowy": "Snowy",
+    
+    "createWorld.customize.indev.levelTheme.normal.description": "Normal weather, day/night cycle, water sea.",
+    "createWorld.customize.indev.levelTheme.hell.description": "Clear skies, perpetual darkness, lava sea.",
+    "createWorld.customize.indev.levelTheme.paradise.description": "Clear skies, perpetual sunlight, water sea.",
+    "createWorld.customize.indev.levelTheme.woods.description": "Overcast, day/night cycle, water sea.",
+    
+    "createWorld.customize.indev.levelType.island": "Island",
+    "createWorld.customize.indev.levelType.floating": "Floating",
+    "createWorld.customize.indev.levelType.inland": "Inland",
+    
+    "text.autoconfig.modern_beta.title": "Modern Beta Configuration",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed": "Fixed Seed Options",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor": "Biome Color Options",
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther": "Other Options",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.fixedSeed": "Fixed Seed",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.fixedSeed.@Tooltip[0]": "For use on servers with Modern Beta.",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.fixedSeed.@Tooltip[1]": "Change to server seed to render",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.fixedSeed.@Tooltip[2]": "correct biome colors.",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.fixedSeed.@Tooltip[3]": "(Requires world reload)",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.useFixedSeed": "Use Fixed Seed",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.useFixedSeed.@Tooltip[0]": "For use on servers with Modern Beta.",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.useFixedSeed.@Tooltip[1]": "Enable to use fixed seed.",
+    "text.autoconfig.modern_beta.option.renderingConfig.configFixedSeed.useFixedSeed.@Tooltip[2]": "(Requires world reload)",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaSkyColor": "Render Beta Sky Colors",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaSkyColor.@Tooltip[0]": "Render client-side temperature",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaSkyColor.@Tooltip[1]": "noise-based Beta sky colors.",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaBiomeColor": "Render Beta Biome Colors",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaBiomeColor.@Tooltip[0]": "Render client-side temperature/humidity",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaBiomeColor.@Tooltip[1]": "noise-based Beta biome colors.",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderBetaBiomeColor.@Tooltip[2]": "(Requires world or texture reload, F3 + T)",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaSkyColor": "Render Beta Sky Colors for PE",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaSkyColor.@Tooltip[0]": "Render client-side temperature",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaSkyColor.@Tooltip[1]": "noise-based Beta sky colors for PE worlds.",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaBiomeColor": "Render Beta Biome Colors for PE",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaBiomeColor.@Tooltip[0]": "Render client-side temperature/humidity",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaBiomeColor.@Tooltip[1]": "noise-based Beta biome colors for PE worlds.",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderPEBetaBiomeColor.@Tooltip[2]": "(Requires world or texture reload, F3 + T)",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderOldFogColor": "Render Old Fog Color",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderOldFogColor.@Tooltip[0]": "Render client-side fog color using old weighting formula,",
+    "text.autoconfig.modern_beta.option.renderingConfig.configBiomeColor.renderOldFogColor.@Tooltip[1]": "increasing sky color contribution with render distance.",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther.renderAlphaSunset": "Render Alpha Sunset",
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther.renderAlphaSunset.@Tooltip": "Render client-side Alpha uncolored sunset.",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther.renderGameVersion": "Render Game Version",
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther.renderGameVersion.@Tooltip": "Render game version in hud.",
+    
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther.cloudHeight": "Cloud Height",
+    "text.autoconfig.modern_beta.option.renderingConfig.configOther.cloudHeight.@Tooltip": "Set cloud render height, range: [0, 256]",
+    
+    "biome.modern_beta.forest": "Beta Forest",
+    "biome.modern_beta.shrubland": "Beta Shrubland",
+    "biome.modern_beta.desert": "Beta Desert",
+    "biome.modern_beta.savanna": "Beta Savanna",
+    "biome.modern_beta.plains": "Beta Plains",
+    "biome.modern_beta.seasonal_forest": "Beta Seasonal Forest",
+    "biome.modern_beta.rainforest": "Beta Rainforest",
+    "biome.modern_beta.swampland": "Beta Swampland",
+    "biome.modern_beta.taiga": "Beta Taiga",
+    "biome.modern_beta.tundra": "Beta Tundra",
+    "biome.modern_beta.ice_desert": "Beta Ice Desert",
+    "biome.modern_beta.sky": "Beta Sky",
+    
+    "biome.modern_beta.ocean": "Beta Ocean",
+    "biome.modern_beta.lukewarm_ocean": "Beta Lukewarm Ocean",
+    "biome.modern_beta.warm_ocean": "Beta Warm Ocean",
+    "biome.modern_beta.cold_ocean": "Beta Cold Ocean",
+    "biome.modern_beta.frozen_ocean": "Beta Frozen Ocean",
+    
+    "biome.modern_beta.alpha": "Alpha",
+    "biome.modern_beta.alpha_winter": "Alpha Winter",
+    
+    "biome.modern_beta.infdev_611": "Infdev 611",
+    "biome.modern_beta.infdev_611_winter": "Infdev 611 Winter",
+    
+    "biome.modern_beta.infdev_420": "Infdev 420",
+    "biome.modern_beta.infdev_420_winter": "Infdev 420 Winter",
+    
+    "biome.modern_beta.infdev_415": "Infdev 415",
+    "biome.modern_beta.infdev_415_winter": "Infdev 415 Winter",
+    
+    "biome.modern_beta.infdev_227": "Infdev 227",
+    "biome.modern_beta.infdev_227_winter": "Infdev 227 Winter",
+    
+    "biome.modern_beta.indev_normal": "Indev Normal",
+    "biome.modern_beta.indev_hell": "Indev Hell",
+    "biome.modern_beta.indev_paradise": "Indev Paradise",
+    "biome.modern_beta.indev_woods": "Indev Woods",
+    "biome.modern_beta.indev_snowy": "Indev Snowy",
+    
+    "biome.modern_beta.pe_forest": "PE Forest",
+    "biome.modern_beta.pe_shrubland": "PE Shrubland",
+    "biome.modern_beta.pe_desert": "PE Desert",
+    "biome.modern_beta.pe_savanna": "PE Savanna",
+    "biome.modern_beta.pe_plains": "PE Plains",
+    "biome.modern_beta.pe_seasonal_forest": "PE Seasonal Forest",
+    "biome.modern_beta.pe_rainforest": "PE Rainforest",
+    "biome.modern_beta.pe_swampland": "PE Swampland",
+    "biome.modern_beta.pe_taiga": "PE Taiga",
+    "biome.modern_beta.pe_tundra": "PE Tundra",
+    "biome.modern_beta.pe_ice_desert": "PE Ice Desert",
+    
+    "biome.modern_beta.pe_ocean": "PE Ocean",
+    "biome.modern_beta.pe_lukewarm_ocean": "PE Lukewarm Ocean",
+    "biome.modern_beta.pe_warm_ocean": "PE Warm Ocean",
+    "biome.modern_beta.pe_cold_ocean": "PE Cold Ocean",
+    "biome.modern_beta.pe_frozen_ocean": "PE Frozen Ocean"
+}
