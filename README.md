@@ -8,8 +8,6 @@ Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta 
 
 ![image](https://user-images.githubusercontent.com/100810554/159571355-10308a5d-82a8-4880-a6c8-a4cc70bd9075.png)
 
-![image](https://user-images.githubusercontent.com/100810554/159572073-721e2284-2592-4273-bcd6-5236288daec3.png)
-
 ![image](https://user-images.githubusercontent.com/100810554/159577817-37eb547a-6abe-44dd-a62a-04460b3e6310.png)
 
 # Original Mod Info
