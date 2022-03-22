@@ -1,6 +1,6 @@
 # Modern Beta: Amplified for Fabric
 
-Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta by b3spectacled and generates Beta 1.7.3 terrain doubled in breadth and in height.
+Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta by b3spectacled and generates Beta 1.7.3 terrain doubled in breadth and in height. Scroll to "Changes from Original Mod" to see other changes made to world spawning.
 
 ![2022-02-08_21 33 49](https://user-images.githubusercontent.com/100810554/159571135-4bc8810b-3d05-4a87-97ae-35701d3b723a.png)
 
@@ -32,7 +32,7 @@ Original mod source code: https://github.com/b3spectacled/modern-beta-fabric/tre
 
 ⦁	Changed default cloud height from y:108 to y:164
 
-⦁	Reduced incidence of waterfalls and lava-falls by 75%
+⦁	Reduced incidence of waterfalls and lava-falls by 75% (the quadrupled surface area was causing excessive waterfalls and lava-falls to spawn in cliffs)
 
 ⦁	Reduced incidence of tall grass in plains
 
