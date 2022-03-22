@@ -36,16 +36,6 @@ Original mod source code: https://github.com/b3spectacled/modern-beta-fabric/tre
 
 ⦁	Reduced incidence of waterfalls and lava-falls by 75% (the quadrupled surface area was causing excessive waterfalls and lava-falls to spawn in cliffs)
 
-⦁	Reduced incidence of tall grass in plains
-
-⦁	Removed tall grass from taiga and forest
-
-⦁	Removed lilypads from swampland
-
-⦁	Removed flowers added post-Beta
-
-⦁	Removed villages from taiga
-
 ⦁	Removed water pools from all biomes except swampland and rainforest
 
 ⦁	Removed waterfalls from savanna, desert, taiga, tundra and ice desert
