@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/100810554/159577817-37eb547a-6abe-44dd-a62a-04460b3e6310.png)
 
-[More Screenshots](https://imgur.com/a/9VNbRFS)
+[**More Screenshots**](https://imgur.com/a/9VNbRFS)
 
 # Overview
 
