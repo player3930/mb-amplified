@@ -1,16 +1,20 @@
-# Modern Beta: Amplified for Fabric
-
-Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta by b3spectacled and generates Beta 1.7.3 terrain doubled in breadth and in height. Scroll to "Changes from Original Mod" to see other changes made to world spawning.
-
 # Screenshots
 
 ![2022-02-08_21 33 49](https://user-images.githubusercontent.com/100810554/159571135-4bc8810b-3d05-4a87-97ae-35701d3b723a.png)
 
-![image](https://user-images.githubusercontent.com/100810554/159571355-10308a5d-82a8-4880-a6c8-a4cc70bd9075.png)
-
 ![2022-01-15_08 02 11](https://user-images.githubusercontent.com/100810554/159582439-267d7d07-465e-425d-bd13-075674c34b5e.png)
 
+![image](https://user-images.githubusercontent.com/100810554/159571355-10308a5d-82a8-4880-a6c8-a4cc70bd9075.png)
+
+![2022-02-09_16 03 33](https://user-images.githubusercontent.com/100810554/160008720-3eec14b1-aa1b-4c1d-92ba-25c315bf5c7e.png)
+
 ![image](https://user-images.githubusercontent.com/100810554/159577817-37eb547a-6abe-44dd-a62a-04460b3e6310.png)
+
+[More Screenshots](https://imgur.com/a/9VNbRFS)
+
+# Overview
+
+Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta by b3spectacled and generates Beta 1.7.3 terrain doubled in breadth and in height. Scroll to "Changes from Original Mod" to see other changes made to world spawning.
 
 # Original Mod Info
 
