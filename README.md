@@ -12,6 +12,8 @@
 
 ![2022-01-01_22 52 14](https://user-images.githubusercontent.com/100810554/160018850-8155f9f1-7166-4f07-a431-04e6aeb99ef7.png)
 
+![2022-01-15_08 03 40](https://user-images.githubusercontent.com/100810554/160019704-4e73c8b1-6d16-4a25-95d5-880dc849e754.png)
+
 [**More Screenshots**](https://imgur.com/a/9VNbRFS)
 
 # Overview
