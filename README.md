@@ -10,6 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/100810554/159577817-37eb547a-6abe-44dd-a62a-04460b3e6310.png)
 
+![2022-01-01_22 52 14](https://user-images.githubusercontent.com/100810554/160018850-8155f9f1-7166-4f07-a431-04e6aeb99ef7.png)
+
 [**More Screenshots**](https://imgur.com/a/9VNbRFS)
 
 # Overview
