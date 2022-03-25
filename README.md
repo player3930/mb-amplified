@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/100810554/159577817-37eb547a-6abe-44dd-a62a-04460b3e6310.png)
 
-![2022-01-06_16 37 37](https://user-images.githubusercontent.com/100810554/160036779-3f43fa55-31ed-4666-9cae-15d4e46ab694.png)
+![2022-01-02_14 33 09](https://user-images.githubusercontent.com/100810554/160037654-8a302fb4-269a-491c-acd6-03da4a50a418.png)
 
 ![2022-01-01_22 52 14](https://user-images.githubusercontent.com/100810554/160018850-8155f9f1-7166-4f07-a431-04e6aeb99ef7.png)
 
