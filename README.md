@@ -18,7 +18,7 @@
 
 # Overview
 
-Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta by b3spectacled and generates Beta 1.7.3 terrain doubled in breadth and in height. Scroll to "Changes from Original Mod" to see other changes made to world spawning.
+Modern Beta: Amplified is a mod that innovates upon the open-source Modern Beta by b3spectacled and generates Beta 1.7.3 terrain doubled in breadth and in height.
 
 # Original Mod Info
 
